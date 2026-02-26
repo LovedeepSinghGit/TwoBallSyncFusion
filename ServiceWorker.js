@@ -1,4 +1,4 @@
-const cacheName = "Lovedeep_Singh-Grumbl_Multiplayer-1.0";
+const cacheName = "DefaultCompany-TwoBallSync-1.0";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js.unityweb",

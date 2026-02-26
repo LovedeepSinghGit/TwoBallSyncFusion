@@ -1,6 +1,6 @@
 {
-    "name": "Grumbl_Multiplayer",
-    "short_name": "Grumbl_Multiplayer",
+    "name": "TwoBallSync",
+    "short_name": "TwoBallSync",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
