@@ -1,6 +1,6 @@
 {
-    "name": "TwoBallSync",
-    "short_name": "TwoBallSync",
+    "name": "TwoBallSyncMultiplayer",
+    "short_name": "TwoBallSyncMultiplayer",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
